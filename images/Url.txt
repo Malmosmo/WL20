@@ -1,0 +1,2 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/IEEE_754_Single_Floating_Point_Format.svg/618px-IEEE_754_Single_Floating_Point_Format.svg.png
+https://www.volkerschatz.com/science/pics/fltscale.svg
